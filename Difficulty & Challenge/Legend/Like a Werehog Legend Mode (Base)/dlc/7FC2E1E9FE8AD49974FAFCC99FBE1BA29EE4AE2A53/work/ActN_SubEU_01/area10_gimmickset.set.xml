@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<SetObject>
+
+  <LayerDefine>
+    <Center>
+      <w>0</w>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </Center>
+    <MergeFile></MergeFile>
+    <OffsetBoxA>
+      <w>0</w>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </OffsetBoxA>
+    <OffsetBoxB>
+      <w>0</w>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </OffsetBoxB>
+    <OffsetRadius>0</OffsetRadius>
+    <PositionOffset>
+      <w>0</w>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </PositionOffset>
+    <RotationOffsetY>0</RotationOffsetY>
+  </LayerDefine>
+
+  <EvilHandle_EUAa>
+    <Amplitude>7.5</Amplitude>
+    <Cycle>5</Cycle>
+    <DialDirection>0</DialDirection>
+    <DialId>
+      <SetObjectID>0</SetObjectID>
+    </DialId>
+    <FitDirection>0</FitDirection>
+    <GroundOffset>0</GroundOffset>
+    <IsAdvance>0</IsAdvance>
+    <IsFitPath>true</IsFitPath>
+    <IsUseMessage>false</IsUseMessage>
+    <MoveDirection>0</MoveDirection>
+    <MoveType>4</MoveType>
+    <Phase>1</Phase>
+    <Position>
+      <w>1</w>
+      <x>22.0368</x>
+      <y>36.0558</y>
+      <z>79.9093</z>
+    </Position>
+    <Rotation>
+      <w>5.96046e-008</w>
+      <x>0</x>
+      <y>-1</y>
+      <z>0</z>
+    </Rotation>
+    <SetObjectID>2354</SetObjectID>
+    <SpeedOnPath>1</SpeedOnPath>
+    <StopTime>2</StopTime>
+  </EvilHandle_EUAa>
+
+</SetObject>
